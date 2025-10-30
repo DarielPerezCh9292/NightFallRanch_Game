@@ -9,15 +9,15 @@ El gameplay se trata de balancear tu atención entre 2 tareas:
 
 Los controles constan de Teclado y Gamepad
 
-    | ACCION                                             | TECLADO   | GAMEPAD      |
-    |:---------------------------------------------------|:---------:|-------------:|
-    |Movimiento|                                         | WASD      |-------------:| 
-    |Girar Camara                                        | Mouse     |-------------:|
-    |Saltar                                              | Espacio   |-------------:|
-    |Correr                                              | Left Shift|-------------:|
-    |Abrir inventario                                    | M         |-------------:|
-    |Hablar                                              | L         |-------------:|
-    |Cambio de Camara (1era Persona / 3era Persona)      | P         |-------------:|
+| ACCION                                             | TECLADO    | GAMEPAD      |
+|:---------------------------------------------------|:----------:|-------------:|
+|Movimiento|                                         | WASD       | asasasa      | 
+|Girar Camara                                        | Mouse      | asasasa      |
+|Saltar                                              | Espacio    | asasasa      |
+|Correr                                              | Left Shift | asasasa      |
+|Abrir inventario                                    | M          | asasasa      |
+|Hablar                                              | L          | asasasa      |
+|Cambio de Camara (1era Persona / 3era Persona)      | P          | asasasa      |
 
 
 | Left |  Center  | Right |
