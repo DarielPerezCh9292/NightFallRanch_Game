@@ -32,5 +32,5 @@ Los controles constan de Teclado y Gamepad
 
 # Video Demonstrativo
     **Video original sin Subtitulos**        https://youtu.be/1_rRcnHWl6c
-    **Nuevo Video con Subtitulos**           https://youtu.be/syKFASy5aYU
+    **Nuevo Video con Subtitulos**           https://youtu.be/VB2TJonJHU4
 # 
