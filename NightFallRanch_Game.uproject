@@ -53,6 +53,10 @@
 		{
 			"Name": "AppleMoviePlayer",
 			"Enabled": false
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
